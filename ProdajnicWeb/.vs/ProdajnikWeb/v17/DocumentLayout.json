@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34501E52-039B-4F2C-8340-8AF7A0EA0C38}|..\\TestProject2\\TestProject2.csproj|d:\\study\\datbas2\\lab5.1\\testproject2\\adminpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\data\\initializer\\dbuserinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\data\\initializer\\dbuserinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\data\\prodajnikcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\data\\prodajnikcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\ProdajnikWeb.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\WebApplication1.csproj|D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\webapplication1\\service\\cacheddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9A381E-59A3-460B-89CF-353BE57A6A15}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\service\\cacheddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPageTests.cs",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\TestProject2\\AdminPageTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProject2\\AdminPageTests.cs",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\TestProject2\\AdminPageTests.cs",
+              "RelativeToolTip": "..\\TestProject2\\AdminPageTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:26:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbUserInitializer.cs",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Data\\Initializer\\DbUserInitializer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Initializer\\DbUserInitializer.cs",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Data\\Initializer\\DbUserInitializer.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Initializer\\DbUserInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:11:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:09:27.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdajnikContext.cs",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Data\\ProdajnikContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ProdajnikContext.cs",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Data\\ProdajnikContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ProdajnikContext.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:14:43.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAgwBQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:07:57.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T20:10:23.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T20:10:09.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T20:09:46.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:09:02.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:08:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T20:06:58.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CachedDataService.cs",
+              "DocumentMoniker": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Service\\CachedDataService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Service\\CachedDataService.cs",
+              "ToolTip": "D:\\Study\\Datbas2\\Lab5.1\\ProdajnicWeb\\WebApplication1\\Service\\CachedDataService.cs",
+              "RelativeToolTip": "WebApplication1\\Service\\CachedDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:05:38.927Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
