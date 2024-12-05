@@ -1,0 +1,139 @@
+﻿@model ProdajnikWeb.Models.ConstructionObject
+
+@{
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+    <div>
+        <h4>ConstructionObject</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ObjectName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ObjectName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.GeneralContractor)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.GeneralContractor)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ContractDate)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ContractDate)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.WorkList)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.WorkList)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.DeliveryDate)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.DeliveryDate)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CommissioningDate)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CommissioningDate)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Photo)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Photo)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Customer.OrganizationName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Customer.OrganizationName)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.ObjectId">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+    <div>
+        <h4>Works</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Work Type</th>
+                    <th>Classifier Code</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.ObjectWorks != null && Model.ObjectWorks.Count > 0)
+                {
+                    foreach (var work in Model.ObjectWorks)
+                    {
+                        <tr>
+                            <td>@work.WorkType?.ClassifierCode</td>
+                            <td>@work.WorkType?.LicenseNumber</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="2">No works available</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <h4>Materials</h4>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Material Name</th>
+                    <th>Manufacturer</th>
+                    <th>Purchase Volume</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.ObjectMaterials != null && Model.ObjectMaterials.Count > 0)
+                {
+                    foreach (var material in Model.ObjectMaterials)
+                    {
+                        <tr>
+                            <td>@material.Material?.MaterialName</td>
+                            <td>@material.Material?.Manufacturer</td>
+                            <td>@material.Material?.PurchaseVolume</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="3">No materials available</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+
+
+
+
